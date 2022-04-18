@@ -15,3 +15,5 @@ function spinWords(someSentence) {
     }
     return sentence;
   }
+
+  spinWords("Hey fellow warriors");
