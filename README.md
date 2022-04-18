@@ -1,2 +1,2 @@
-# CodeWar
-JavaScript Challenges from CodeWars.com
+# codeWarriors
+JavaScript coding challenges from codewars.com
