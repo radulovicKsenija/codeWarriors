@@ -9,4 +9,4 @@ JavaScript coding challenges from codewars.com
 - Challenge #4 - Complete
 - Challenge #5 - Complete  
 
-**RECEIVED KYU RANk 7**
+**RECEIVED KYU RANK 7**
